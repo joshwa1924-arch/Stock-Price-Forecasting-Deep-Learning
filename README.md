@@ -195,3 +195,13 @@ Future improvements could include:
 - Applying the methodology to multiple companies and sectors.
 - Exploring ensemble modelling approaches.
 - Using daily stock price data for more detailed forecasting.
+
+## Technologies Used
+Python
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Scikit-learn
+TensorFlow / Keras
+Jupyter Notebook / Google Colab
